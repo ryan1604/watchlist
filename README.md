@@ -26,5 +26,5 @@ NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
 
-1. run `npm run dev`
-2. open [`localhost:3000`](http://localhost:3000) on your browser
+4. run `npm run dev`
+5. open [`localhost:3000`](http://localhost:3000) on your browser

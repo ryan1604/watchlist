@@ -22,7 +22,7 @@ const AuthForm = () => {
       view="magic_link"
       showLinks={false}
       providers={[]}
-      redirectTo={`${process.env.NEXT_PUBLIC_APP_URL}/auth/callback`}
+      redirectTo='https://watchlist-zeta-one.vercel.app/auth/callback'
       appearance={{
         theme: "dark",
         button: {
